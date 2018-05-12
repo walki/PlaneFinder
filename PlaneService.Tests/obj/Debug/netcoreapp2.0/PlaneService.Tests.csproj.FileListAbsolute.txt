@@ -1,0 +1,17 @@
+C:\Users\roger\projects\planefinder\PlaneService.Tests\obj\Debug\netcoreapp2.0\PlaneService.Tests.csprojAssemblyReference.cache
+C:\Users\roger\projects\planefinder\PlaneService.Tests\obj\Debug\netcoreapp2.0\PlaneService.Tests.csproj.CoreCompileInputs.cache
+C:\Users\roger\projects\planefinder\PlaneService.Tests\obj\Debug\netcoreapp2.0\PlaneService.Tests.AssemblyInfoInputs.cache
+C:\Users\roger\projects\planefinder\PlaneService.Tests\obj\Debug\netcoreapp2.0\PlaneService.Tests.AssemblyInfo.cs
+C:\Users\roger\projects\planefinder\PlaneService.Tests\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\roger\projects\planefinder\PlaneService.Tests\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\roger\projects\planefinder\PlaneService.Tests\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+C:\Users\roger\projects\planefinder\PlaneService.Tests\bin\Debug\netcoreapp2.0\PlaneService.Tests.deps.json
+C:\Users\roger\projects\planefinder\PlaneService.Tests\bin\Debug\netcoreapp2.0\PlaneService.Tests.runtimeconfig.json
+C:\Users\roger\projects\planefinder\PlaneService.Tests\bin\Debug\netcoreapp2.0\PlaneService.Tests.runtimeconfig.dev.json
+C:\Users\roger\projects\planefinder\PlaneService.Tests\bin\Debug\netcoreapp2.0\PlaneService.Tests.dll
+C:\Users\roger\projects\planefinder\PlaneService.Tests\bin\Debug\netcoreapp2.0\PlaneService.Tests.pdb
+C:\Users\roger\projects\planefinder\PlaneService.Tests\bin\Debug\netcoreapp2.0\PlaneService.dll
+C:\Users\roger\projects\planefinder\PlaneService.Tests\bin\Debug\netcoreapp2.0\PlaneService.pdb
+C:\Users\roger\projects\planefinder\PlaneService.Tests\obj\Debug\netcoreapp2.0\PlaneService.Tests.csproj.CopyComplete
+C:\Users\roger\projects\planefinder\PlaneService.Tests\obj\Debug\netcoreapp2.0\PlaneService.Tests.dll
+C:\Users\roger\projects\planefinder\PlaneService.Tests\obj\Debug\netcoreapp2.0\PlaneService.Tests.pdb

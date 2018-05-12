@@ -1,0 +1,14 @@
+C:\Users\roger\projects\planefinder\PlaneFinder\bin\Debug\netcoreapp2.0\PlaneFinder.deps.json
+C:\Users\roger\projects\planefinder\PlaneFinder\bin\Debug\netcoreapp2.0\PlaneFinder.runtimeconfig.json
+C:\Users\roger\projects\planefinder\PlaneFinder\bin\Debug\netcoreapp2.0\PlaneFinder.runtimeconfig.dev.json
+C:\Users\roger\projects\planefinder\PlaneFinder\bin\Debug\netcoreapp2.0\PlaneFinder.dll
+C:\Users\roger\projects\planefinder\PlaneFinder\bin\Debug\netcoreapp2.0\PlaneFinder.pdb
+C:\Users\roger\projects\planefinder\PlaneFinder\bin\Debug\netcoreapp2.0\PlaneService.dll
+C:\Users\roger\projects\planefinder\PlaneFinder\bin\Debug\netcoreapp2.0\PlaneService.pdb
+C:\Users\roger\projects\planefinder\PlaneFinder\obj\Debug\netcoreapp2.0\PlaneFinder.csprojAssemblyReference.cache
+C:\Users\roger\projects\planefinder\PlaneFinder\obj\Debug\netcoreapp2.0\PlaneFinder.csproj.CoreCompileInputs.cache
+C:\Users\roger\projects\planefinder\PlaneFinder\obj\Debug\netcoreapp2.0\PlaneFinder.AssemblyInfoInputs.cache
+C:\Users\roger\projects\planefinder\PlaneFinder\obj\Debug\netcoreapp2.0\PlaneFinder.AssemblyInfo.cs
+C:\Users\roger\projects\planefinder\PlaneFinder\obj\Debug\netcoreapp2.0\PlaneFinder.csproj.CopyComplete
+C:\Users\roger\projects\planefinder\PlaneFinder\obj\Debug\netcoreapp2.0\PlaneFinder.dll
+C:\Users\roger\projects\planefinder\PlaneFinder\obj\Debug\netcoreapp2.0\PlaneFinder.pdb

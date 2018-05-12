@@ -1,0 +1,9 @@
+C:\Users\roger\projects\planefinder\PlaneService\bin\Debug\netstandard2.0\PlaneService.deps.json
+C:\Users\roger\projects\planefinder\PlaneService\bin\Debug\netstandard2.0\PlaneService.dll
+C:\Users\roger\projects\planefinder\PlaneService\bin\Debug\netstandard2.0\PlaneService.pdb
+C:\Users\roger\projects\planefinder\PlaneService\obj\Debug\netstandard2.0\PlaneService.csprojAssemblyReference.cache
+C:\Users\roger\projects\planefinder\PlaneService\obj\Debug\netstandard2.0\PlaneService.csproj.CoreCompileInputs.cache
+C:\Users\roger\projects\planefinder\PlaneService\obj\Debug\netstandard2.0\PlaneService.AssemblyInfoInputs.cache
+C:\Users\roger\projects\planefinder\PlaneService\obj\Debug\netstandard2.0\PlaneService.AssemblyInfo.cs
+C:\Users\roger\projects\planefinder\PlaneService\obj\Debug\netstandard2.0\PlaneService.dll
+C:\Users\roger\projects\planefinder\PlaneService\obj\Debug\netstandard2.0\PlaneService.pdb
